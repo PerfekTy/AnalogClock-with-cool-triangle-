@@ -1,5 +1,5 @@
 # Analog clock
 
-`Live -->`
+`Live` -->
 
-`Inspiration --> https://steamcommunity.com/sharedfiles/filedetails/?id=922882758`
+`Inspiration' -->  [WALLPAPER](https://steamcommunity.com/sharedfiles/filedetails/?id=922882758)
