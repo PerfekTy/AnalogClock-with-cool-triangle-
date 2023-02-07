@@ -1,4 +1,4 @@
-# Analog clock
+# Javascript_Clock
 
 `Live` --> https://perfekty.github.io/AnalogClock-with-cool-triangle-/
 
